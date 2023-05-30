@@ -38,8 +38,8 @@ header .logo:hover,
   cursor: pointer;
 }
 
-.titulo-header {
-  color: #fff
+header .titulo-header {
+  color: #fff;
 }
 
 main {
