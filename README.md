@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Projeto de uma pokedex da serie Pokemon contendo os 151 pokemons da região de Kanto da da 10ª edição da **SEMANA DO ZERO AO PROGRAMADOR CONTRATADO**, evento organizado pela [DevEmDobro](https://devemdobro.com/ "Site do DevEmDobro").
+Projeto de uma pokedex da serie Pokemon contendo os 151 pokemons da região de Kanto da 10ª edição da **SEMANA DO ZERO AO PROGRAMADOR CONTRATADO**, evento organizado pela [DevEmDobro](https://devemdobro.com/ "Site do DevEmDobro").
 
 O projeto consiste em simular a podekex do jogo Pokemon, onde lista os pokemons da região de Kanto.
 
