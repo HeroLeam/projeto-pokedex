@@ -7,9 +7,9 @@ Projeto de uma pokedex da serie Pokemon contendo os 151 pokemons da região de K
 O projeto consiste em simular a podekex do jogo Pokemon, onde lista os pokemons da região de Kanto.
 
 ## Layout web - Modo claro
-![Web 1](https://raw.githubusercontent.com/HeroLeam/szpc10-projeto-pokedex/main/src/assets/temaClaro.png)
+![Web 1](./src/assets/temaClaro.png)
 ## Layout web - Modo escuro
-![Web 2](https://raw.githubusercontent.com/HeroLeam/szpc10-projeto-pokedex/main/src/assets/teamEscuro.png)
+![Web 2](./src/assets/teamEscuro.png)
 
 # Tecnologias utilizadas
 ## Front end
