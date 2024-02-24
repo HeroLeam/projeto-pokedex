@@ -19,6 +19,6 @@ O projeto consiste em simular a podekex do jogo Pokemon, onde lista os pokemons 
 
 # Autor
 
-Thiago Leoni Amaral
+Thiago Leoni Amaral aka Heroleam
 
-https://linktr.ee/heroleam
+https://heroleam.github.io/herofield
