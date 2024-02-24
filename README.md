@@ -1,4 +1,4 @@
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/HeroLeam/szpc8-projeto-pokedex/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](./LICENSE) 
 
 # Sobre o projeto
 
